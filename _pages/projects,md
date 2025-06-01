@@ -1,0 +1,22 @@
+---
+layout: single
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
+### 🔐 CP-ABE on Cloud
+
+Enhanced cloud data security using QH-CPABE and dynamic key generation. Tested performance on AWS S3.
+
+### 🏥 Diabetes Readmission ML Model
+
+Used ML techniques on 130 US hospitals dataset to predict patient readmissions.
+
+### 🔑 Quantum Key Distribution
+
+Researched quantum encryption protocols and developed secure cryptographic models.
+
+### 🚆 DBMS Railway System
+
+Developed a railway reservation system with optimized DB queries, improving access speed by 30%.
